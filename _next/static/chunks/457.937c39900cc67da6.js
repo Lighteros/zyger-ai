@@ -509,7 +509,7 @@
                   }),
                   (0, r.jsx)("div", {
                     className: "text-3xl font-light ",
-                    children: "Get Started with ZkAGI",
+                    children: "Get Started with Zyger",
                   }),
                   (0, r.jsx)("div", {
                     className:

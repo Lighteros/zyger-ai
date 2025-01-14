@@ -1008,7 +1008,7 @@
                       className:
                         "text-white font-normal font-sourceCode text-base md:text-lg w-full text-center mb-10 md:mb-12",
                       children:
-                        "ZkAGI is built for autonomous and sovereign entrepreneurs. Together we usher a new era of privacy enabled autopreneurs.",
+                        "Zyger is built for autonomous and sovereign entrepreneurs. Together we usher a new era of privacy enabled autopreneurs.",
                     }),
                     (0, r.jsxs)("div", {
                       ref: e,
@@ -1020,7 +1020,7 @@
                         }),
                         (0, r.jsx)(p, {
                           value: o,
-                          label: "Total lines of code in ZkAGI repositories",
+                          label: "Total lines of code in Zyger repositories",
                         }),
                       ],
                     }),

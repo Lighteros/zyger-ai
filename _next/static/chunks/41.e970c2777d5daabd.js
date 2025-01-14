@@ -2741,7 +2741,7 @@
               (0, n.jsx)(c.default, {
                 href: "/",
                 children: (0, n.jsx)(o.default, {
-                  src: "/icons/logo.svg",
+                  src: "/icons/logo.png",
                   width: 100,
                   height: 100,
                   alt: "logo",

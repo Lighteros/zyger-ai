@@ -104,7 +104,7 @@
                   children: [
                     "Harness GenAI APIs, ",
                     (0, a.jsx)("br", {}),
-                    "elevated by ZkAGI's intelligent, fast, and secure AI infrastructure.",
+                    "elevated by Zyger's intelligent, fast, and secure AI infrastructure.",
                     (0, a.jsx)("div", {
                       className:
                         "-inset-0.5 bg-animated-bg absolute blur-xl animate opacity-10",

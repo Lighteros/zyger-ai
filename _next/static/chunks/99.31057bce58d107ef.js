@@ -574,9 +574,9 @@
                     primary: !0,
                   }),
                   (0, r.jsx)(s, {
-                    title: "ZkAGI Compute Cluster",
+                    title: "Zyger Compute Cluster",
                     description:
-                      "Contribute GPUs and CPUs to earn ZkAGI tokens.",
+                      "Contribute GPUs and CPUs to earn Zyger tokens.",
                     status: "PRIVATE BETA",
                     imageSrc: "/rive/products/social.riv",
                   }),
@@ -589,7 +589,7 @@
                   (0, r.jsx)(s, {
                     title: "Zynapse API",
                     description:
-                      "Leverage Zk-verified machine learning models.World is your oyster, host or use open source models on ZkAGI network.",
+                      "Leverage Zk-verified machine learning models.World is your oyster, host or use open source models on Zyger network.",
                     imageSrc: "/rive/products/privacy.riv",
                     primary: !0,
                   }),

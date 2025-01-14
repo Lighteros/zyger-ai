@@ -536,7 +536,7 @@
               (0, i.jsx)(l.default, {
                 href: "/",
                 children: (0, i.jsx)(r.default, {
-                  src: "/icons/logo.svg",
+                  src: "/icons/logo.png",
                   width: 100,
                   height: 100,
                   alt: "logo",

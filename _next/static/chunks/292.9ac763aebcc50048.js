@@ -123,7 +123,7 @@
           title: "Bootstrapping Phase",
           steps: [
             "ZkSurfer private/public Beta",
-            "New ZkAGI brand release",
+            "New Zyger brand release",
             "Whitepaper V1 release",
             "Tokenomics release",
             "Seed Round Raise",

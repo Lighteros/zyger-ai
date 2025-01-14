@@ -595,7 +595,7 @@
                         children: [
                           (0, n.jsx)("div", {
                             className: "w-72 py-2 ml-auto text-right",
-                            children: "Usage Credits for ZkAGI API",
+                            children: "Usage Credits for Zyger API",
                           }),
                           (0, n.jsx)("img", {
                             src: "/images/markers/2.svg",
@@ -763,7 +763,7 @@
                     children: [
                       (0, n.jsxs)("div", {
                         className: "w-56 py-3 ml-auto translate-y-9",
-                        children: ["Usage Credits for ZkAGI API\xa0", " "],
+                        children: ["Usage Credits for Zyger API\xa0", " "],
                       }),
                       (0, n.jsx)("img", {
                         src: "/images/markers/2.svg",
@@ -889,7 +889,7 @@
                               }),
                               (0, n.jsx)("div", {
                                 className: " text-3xl lg:text-6xl",
-                                children: "$ZkAGI",
+                                children: "$ZYGER",
                               }),
                             ],
                           }),
@@ -903,7 +903,7 @@
                             className:
                               "font-sourceCode text-center lg:text-start",
                             children:
-                              "$ZKAGI is a utility token for Human-2-machine, Machine-2-Machine and Machine-2-Human payments of AI computations & training on the verifiable & decentralized network.",
+                              "$ZYGER is a utility token for Human-2-machine, Machine-2-Machine and Machine-2-Human payments of AI computations & training on the verifiable & decentralized network.",
                           }),
                           (0, n.jsx)("div", { className: "pt-3 " }),
                         ],
