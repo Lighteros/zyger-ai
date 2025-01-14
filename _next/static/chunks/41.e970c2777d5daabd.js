@@ -2786,7 +2786,7 @@
                               }),
                               (0, n.jsx)(i.Z, {
                                 link: s.VN,
-                                children: "BUIDL NOW",
+                                children: "Launch App",
                               }),
                             ],
                           }),
@@ -2810,7 +2810,7 @@
                         target: "_blank",
                         children: "WHITEPAPER",
                       }),
-                      (0, n.jsx)(i.Z, { link: s.VN, children: "BUIDL NOW" }),
+                      (0, n.jsx)(i.Z, { link: s.VN, children: "Launch App" }),
                     ],
                   }),
             ],
@@ -2837,15 +2837,15 @@
           return s;
         },
       });
-      let n = "https://zkagi.gitbook.io/introduction",
+      let n = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         o = "",
-        i = "https://zkagi.gitbook.io/introduction",
+        i = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         a = "https://github.com/ZkAGI",
         s = {
           howToUse: "https://tidycal.com/zkagi/discussion",
           whitePaper:
             "https://drive.google.com/file/d/1EOFTh8TxscsZlT2fnaxJyGlD0dipAFUQ/view?usp=sharing",
-          getStarted: "https://cluster.zkagi.ai/",
+          getStarted: "https://zyger-ai-app-cs.vercel.app/",
           ambassadorApply: "https://zealy.io/cw/zkagisocials/questboard",
         };
     },
@@ -2963,7 +2963,7 @@
                         func: () => {
                           f(p.mx.getStarted);
                         },
-                        children: "GET STARTED",
+                        children: "Launch App",
                       }),
                     ],
                   }),

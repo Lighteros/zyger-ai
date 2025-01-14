@@ -89,7 +89,7 @@
         };
       let n = [
         {
-          timeline: "2019-2023",
+          timeline: "2024",
           status: "COMPLETED",
           color: "#2AF698",
           title: "Research Phase",
@@ -103,7 +103,7 @@
           ],
         },
         {
-          timeline: "Q1 - 2024",
+          timeline: "Q1 - 2025",
           status: "COMPLETED",
           color: "#2AF698",
           title: "Bootstrapping Phase",
@@ -117,7 +117,7 @@
           ],
         },
         {
-          timeline: "Q2 - 2024",
+          timeline: "Q2 - 2025",
           status: "COMPLETED",
           color: "#2AF698",
           title: "Bootstrapping Phase",
@@ -132,7 +132,7 @@
           ],
         },
         {
-          timeline: "H2 - 2024",
+          timeline: "H2 - 2025",
           status: "IN PROGRESS",
           color: "#DE9068",
           title: "Growth Phase",
@@ -147,7 +147,7 @@
           ],
         },
         {
-          timeline: "2025",
+          timeline: "2026",
           status: "PLANNED",
           color: "#BDA0FF",
           title: "Scale Phase",

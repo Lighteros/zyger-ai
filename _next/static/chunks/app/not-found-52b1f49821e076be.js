@@ -568,20 +568,14 @@
                               "absolute z-40 right-5 top-12 flex flex-col gap-6 items-center justify-center text-white",
                             children: [
                               (0, i.jsx)("a", {
-                                className: "min-w-fit text-xs  lg:text-base",
-                                href: o.mx.howToUse,
-                                target: "_blank",
-                                children: "HOW TO USE",
-                              }),
-                              (0, i.jsx)("a", {
                                 className: "text-xs lg:text-base text-white",
-                                href: o.mx.whitePaper,
+                                href: "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
                                 target: "_blank",
-                                children: "WHITEPAPER",
+                                children: "Document",
                               }),
                               (0, i.jsx)(s.Z, {
-                                link: o.VN,
-                                children: "BUIDL NOW",
+                                link: "https://zyger-ai-app-cs.vercel.app/",
+                                children: "Launch App",
                               }),
                             ],
                           }),
@@ -593,19 +587,12 @@
                     children: [
                       (0, i.jsx)("a", {
                         className:
-                          "min-w-fit text-sm lg:text-base hover:underline hover:underline-offset-4",
-                        href: o.mx.howToUse,
-                        target: "_blank",
-                        children: "HOW TO USE",
-                      }),
-                      (0, i.jsx)("a", {
-                        className:
                           "text-sm lg:text-base hover:underline hover:underline-offset-4",
-                        href: o.mx.whitePaper,
+                        href: "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
                         target: "_blank",
-                        children: "WHITEPAPER",
+                        children: "Document",
                       }),
-                      (0, i.jsx)(s.Z, { link: o.VN, children: "BUIDL NOW" }),
+                      (0, i.jsx)(s.Z, { link: "https://zyger-ai-app-cs.vercel.app/", children: "Launch App" }),
                     ],
                   }),
             ],
@@ -632,15 +619,15 @@
           return o;
         },
       });
-      let i = "https://zkagi.gitbook.io/introduction",
+      let i = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         r = "",
-        s = "https://zkagi.gitbook.io/introduction",
+        s = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         a = "https://github.com/ZkAGI",
         o = {
           howToUse: "https://tidycal.com/zkagi/discussion",
           whitePaper:
             "https://drive.google.com/file/d/1EOFTh8TxscsZlT2fnaxJyGlD0dipAFUQ/view?usp=sharing",
-          getStarted: "https://cluster.zkagi.ai/",
+          getStarted: "https://zyger-ai-app-cs.vercel.app/",
           ambassadorApply: "https://zealy.io/cw/zkagisocials/questboard",
         };
     },

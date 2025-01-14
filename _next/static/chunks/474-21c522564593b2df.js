@@ -815,15 +815,15 @@
           return u;
         },
       });
-      let r = "https://zkagi.gitbook.io/introduction",
+      let r = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         a = "",
-        i = "https://zkagi.gitbook.io/introduction",
+        i = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         o = "https://github.com/ZkAGI",
         u = {
           howToUse: "https://tidycal.com/zkagi/discussion",
           whitePaper:
             "https://drive.google.com/file/d/1EOFTh8TxscsZlT2fnaxJyGlD0dipAFUQ/view?usp=sharing",
-          getStarted: "https://cluster.zkagi.ai/",
+          getStarted: "https://zyger-ai-app-cs.vercel.app/",
           ambassadorApply: "https://zealy.io/cw/zkagisocials/questboard",
         };
     },
@@ -838,34 +838,19 @@
       var r = n(7437);
       let a = [
         {
-          name: "LINKEDIN",
-          img: "/icons/_Linkedin.svg",
-          link: "https://www.linkedin.com/company/zkagi/?viewAsMember=true",
-        },
-        {
-          name: "DISCORD",
-          img: "/icons/_Discord.svg",
-          link: "https://discord.gg/4GP4xFE5aF",
-        },
-        {
           name: "TELEGRAM",
           img: "/icons/_Telegram.svg",
-          link: "https://t.me/ZkAGI_AI",
-        },
-        {
-          name: "YOUTUBE",
-          img: "/icons/youtube.svg",
-          link: "https://www.youtube.com/@ZkAGI",
+          link: "https://t.me/ZygerAI_ETH",
         },
         {
           name: "TWITTER",
           img: "/icons/_Twitter.svg",
-          link: "https://twitter.com/zk_agi",
+          link: "https://twitter.com/ZygerAI_ETH",
         },
         {
-          name: "MEDIUM",
-          img: "/icons/MediumLogo.svg",
-          link: "http://zkagi.medium.com",
+          name: "DOCS",
+          img: "/images/google-docs.png",
+          link: "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         },
       ];
       var i = n(2265),
@@ -943,13 +928,6 @@
         },
         m = () =>
           (0, r.jsx)("div", {
-            className: "w-full  mb-5 md:mb-7 lg:mb-15 text-black",
-            children: (0, r.jsx)(o, {
-              func: () => {
-                d(f.Qz);
-              },
-              children: "CONTINUE TO GITHUB",
-            }),
           });
       var h = () => {
         let e = (0, i.useRef)(null),
@@ -988,7 +966,7 @@
                 (0, r.jsx)("video", {
                   ref: l,
                   id: "tiger",
-                  src: "/videos/tiger.webm",
+                  src: "/videos/tiger.mp4",
                   className:
                     "absolute w-full h-full object-cover object-bottom -bottom-10 md:bottom-0 2xl:-bottom-8 4xl:-bottom-10  footer-box rounded-t-[60px]",
                   controls: !1,
@@ -1009,20 +987,6 @@
                         "text-white font-normal font-sourceCode text-base md:text-lg w-full text-center mb-10 md:mb-12",
                       children:
                         "Zyger is built for autonomous and sovereign entrepreneurs. Together we usher a new era of privacy enabled autopreneurs.",
-                    }),
-                    (0, r.jsxs)("div", {
-                      ref: e,
-                      className: "w-full flex justify-between  mb-10",
-                      children: [
-                        (0, r.jsx)(p, {
-                          value: t,
-                          label: "Total GitHub commits by key contributors",
-                        }),
-                        (0, r.jsx)(p, {
-                          value: o,
-                          label: "Total lines of code in Zyger repositories",
-                        }),
-                      ],
                     }),
                     (0, r.jsx)(m, {}),
                   ],

@@ -20,15 +20,15 @@
           return a;
         },
       });
-      let l = "https://zkagi.gitbook.io/introduction",
+      let l = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         s = "",
-        i = "https://zkagi.gitbook.io/introduction",
+        i = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
         n = "https://github.com/ZkAGI",
         a = {
           howToUse: "https://tidycal.com/zkagi/discussion",
           whitePaper:
             "https://drive.google.com/file/d/1EOFTh8TxscsZlT2fnaxJyGlD0dipAFUQ/view?usp=sharing",
-          getStarted: "https://cluster.zkagi.ai/",
+          getStarted: "https://zyger-ai-app-cs.vercel.app/",
           ambassadorApply: "https://zealy.io/cw/zkagisocials/questboard",
         };
     },
@@ -230,96 +230,7 @@
       }
       var k = r(6786),
         w = () =>
-          (0, l.jsx)("div", {
-            className:
-              "py-20 flex flex-col items-center w-full max-w-7xl mx-auto",
-            children: (0, l.jsxs)("div", {
-              className:
-                "flex flex-col gap-5 justify-center items-center w-full",
-              children: [
-                (0, l.jsxs)("div", {
-                  className:
-                    "flex w-full items-center gap-4 text-zkDarkPurple px-5 lg:px-0 pb-8",
-                  children: [
-                    (0, l.jsx)("div", {
-                      className: "text-sm",
-                      children: "APPLICATIONS",
-                    }),
-                    (0, l.jsx)("div", {
-                      className: "flex-grow h-0.5 bg-zkDarkPurple opacity-20",
-                    }),
-                    (0, l.jsxs)("a", {
-                      href: k.Rn,
-                      className:
-                        "hidden md:flex gap-1 items-center text-sm hover:underline hover:underline-offset-4",
-                      children: [
-                        "READ MORE CASE STUDIES",
-                        (0, l.jsx)(s.default, {
-                          alt: "arrowright",
-                          src: "/icons/arrowright.svg",
-                          width: 15,
-                          height: 15,
-                        }),
-                      ],
-                    }),
-                  ],
-                }),
-                (0, l.jsxs)("div", {
-                  className:
-                    " no-scrollbar flex overflow-x-auto lg:grid lg:grid-cols-3 w-full gap-12 px-5 lg:px-0 lg:justify-center lg:items-center",
-                  children: [
-                    (0, l.jsx)("div", {
-                      children: (0, l.jsx)(j, {
-                        color1: "pink",
-                        color2: "red",
-                        src: "/icons/applications/citizenship.svg",
-                        title: "Marketing & Memetics",
-                        link: k.Ye,
-                      }),
-                    }),
-                    (0, l.jsx)("div", {
-                      children: (0, l.jsx)(j, {
-                        color1: "lightgreen",
-                        color2: "green",
-                        src: "/icons/applications/code.svg",
-                        title: "Code generation",
-                        link: k.Ye,
-                      }),
-                    }),
-                    (0, l.jsx)("div", {
-                      children: (0, l.jsx)(j, {
-                        color1: "lightyellow",
-                        color2: "yellow",
-                        src: "/icons/applications/trading.svg",
-                        title: "Trading and Hedge Funds",
-                        link: k.Ye,
-                      }),
-                    }),
-                  ],
-                }),
-                (0, l.jsx)("div", {
-                  className:
-                    "text-zkDarkPurple flex md:hidden justify-start w-full hover:underline hover:underline-offset-4 px-5",
-                  children: (0, l.jsx)("a", {
-                    href: k.Rn,
-                    children: (0, l.jsxs)("div", {
-                      className:
-                        "flex w-full  md:flex min-w-max text-sm  gap-1 items-center ",
-                      children: [
-                        "READ MORE CASE STUDIES",
-                        (0, l.jsx)(s.default, {
-                          alt: "arrowright",
-                          src: "/icons/arrowright.svg",
-                          width: 15,
-                          height: 15,
-                        }),
-                      ],
-                    }),
-                  }),
-                }),
-              ],
-            }),
-          });
+          (0, l.jsx)("div", {});
     },
   },
 ]);
