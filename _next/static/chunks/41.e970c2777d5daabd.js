@@ -2837,15 +2837,15 @@
           return s;
         },
       });
-      let n = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+      let n = "https://docs.zygerai.pro",
         o = "",
-        i = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+        i = "https://docs.zygerai.pro",
         a = "https://github.com/ZkAGI",
         s = {
           howToUse: "https://tidycal.com/zkagi/discussion",
           whitePaper:
             "https://drive.google.com/file/d/1EOFTh8TxscsZlT2fnaxJyGlD0dipAFUQ/view?usp=sharing",
-          getStarted: "https://zyger-ai-app-cs.vercel.app/",
+          getStarted: "https://app.zygerai.pro",
           ambassadorApply: "https://zealy.io/cw/zkagisocials/questboard",
         };
     },

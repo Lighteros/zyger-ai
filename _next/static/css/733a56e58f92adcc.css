@@ -3335,3 +3335,7 @@ body {
 .\[\&\>\*\]\:\[transform-style\:preserve-3d\] > * {
   transform-style: preserve-3d;
 }
+
+.hidden{
+  display: none !important;
+}

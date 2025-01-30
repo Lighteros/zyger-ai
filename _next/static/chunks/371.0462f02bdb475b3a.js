@@ -537,7 +537,7 @@
       a.default = () =>
         (0, s.jsxs)("div", {
           className:
-            "lg:max-w-7xl md:max-w-3xl mx-auto w-full flex flex-col items-center mb-16 md:mb-20 lg:mb-40",
+            "lg:max-w-7xl md:max-w-3xl mx-auto w-full flex flex-col items-center mb-16 md:mb-20 lg:mb-40 hidden",
           children: [
             (0, s.jsx)("h2", {
               className:

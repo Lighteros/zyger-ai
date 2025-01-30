@@ -21,7 +21,7 @@
       var n = () =>
         (0, s.jsxs)("div", {
           className:
-            "w-full  lg:max-w-7xl md:max-w-3xl     mx-auto flex flex-col items-center mb-20 md:mb-24 lg:mb-36",
+            "w-full  lg:max-w-7xl md:max-w-3xl  hidden   mx-auto flex flex-col items-center mb-20 md:mb-24 lg:mb-36",
           children: [
             (0, s.jsx)("h2", {
               className:

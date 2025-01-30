@@ -569,13 +569,14 @@
                             children: [
                               (0, i.jsx)("a", {
                                 className: "text-xs lg:text-base text-white",
-                                href: "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+                                href: "https://docs.zygerai.pro",
                                 target: "_blank",
                                 children: "Document",
                               }),
                               (0, i.jsx)(s.Z, {
-                                link: "https://zyger-ai-app-cs.vercel.app/",
-                                children: "Launch App",
+                                link: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                                target: "_blank",
+                                children: "Buy $ZYGER",
                               }),
                             ],
                           }),
@@ -588,11 +589,11 @@
                       (0, i.jsx)("a", {
                         className:
                           "text-sm lg:text-base hover:underline hover:underline-offset-4",
-                        href: "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+                        href: "https://docs.zygerai.pro",
                         target: "_blank",
                         children: "Document",
                       }),
-                      (0, i.jsx)(s.Z, { link: "https://zyger-ai-app-cs.vercel.app/", children: "Launch App" }),
+                      (0, i.jsx)(s.Z, { link: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",target:"_blank", children: "Buy $ZYGER" }),
                     ],
                   }),
             ],
@@ -619,15 +620,15 @@
           return o;
         },
       });
-      let i = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+      let i = "https://docs.zygerai.pro",
         r = "",
-        s = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+        s = "https://docs.zygerai.pro",
         a = "https://github.com/ZkAGI",
         o = {
           howToUse: "https://tidycal.com/zkagi/discussion",
           whitePaper:
             "https://drive.google.com/file/d/1EOFTh8TxscsZlT2fnaxJyGlD0dipAFUQ/view?usp=sharing",
-          getStarted: "https://zyger-ai-app-cs.vercel.app/",
+          getStarted: "https://app.zygerai.pro",
           ambassadorApply: "https://zealy.io/cw/zkagisocials/questboard",
         };
     },

@@ -20,15 +20,15 @@
           return a;
         },
       });
-      let l = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+      let l = "https://docs.zygerai.pro",
         s = "",
-        i = "https://alexeys-organization-9.gitbook.io/zyger-ai-network",
+        i = "https://docs.zygerai.pro",
         n = "https://github.com/ZkAGI",
         a = {
           howToUse: "https://tidycal.com/zkagi/discussion",
           whitePaper:
             "https://drive.google.com/file/d/1EOFTh8TxscsZlT2fnaxJyGlD0dipAFUQ/view?usp=sharing",
-          getStarted: "https://zyger-ai-app-cs.vercel.app/",
+          getStarted: "https://app.zygerai.pro",
           ambassadorApply: "https://zealy.io/cw/zkagisocials/questboard",
         };
     },
