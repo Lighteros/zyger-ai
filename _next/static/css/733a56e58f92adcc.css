@@ -3336,6 +3336,6 @@ body {
   transform-style: preserve-3d;
 }
 
-.hidden{
+.hide{
   display: none !important;
 }

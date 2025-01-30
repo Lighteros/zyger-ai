@@ -833,7 +833,7 @@
                     " overflow-hidden inset-0 z-10 flex flex-col w-screen h-[1600px] items-center justify-center",
                   children: [
                     (0, n.jsx)("div", {
-                      className: " hidden lg:flex  absolute inset-0 z-0 ",
+                      className: "hide lg:flex  absolute inset-0 z-0 ",
                       children: (0, n.jsx)("video", {
                         ref: s,
                         id: "video-bg",
